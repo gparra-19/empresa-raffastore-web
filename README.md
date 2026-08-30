@@ -1,5 +1,5 @@
 # Nombre de la empresa
-Raffastore-Accesorios para celulares
+Raffastore-Accesorios para celulares de tecnologia.
 # Integrantes
 Alfredo Alvarez
 Kimberlyn Garcia
